@@ -1,0 +1,19 @@
+[
+  {
+    "company": "示例星桥科技（虚构）",
+    "title": "实施顾问（测试岗位）",
+    "location": "示例城市",
+    "requisition_id": "demo-001",
+    "url": "https://example.com/jobs/demo-001",
+    "track": "用户选择的实施方向",
+    "jd": "仅供测试的虚构岗位。负责需求记录、实施协调与用户培训，要求能用实例说明本人贡献。本科或同等实践能力；不要求 AI 项目经历。",
+    "scores": {"资格": 3, "经验": 3, "技能": 3, "契合": null, "发展": null},
+    "source": {"type": "synthetic_fixture", "date": null, "path": "", "verified_hiring": false},
+    "score_rationale": {"资格": "演示值，不代表本人资格", "经验": "演示值，须替换为事实 ID 与 JD 对照", "技能": "演示值，须替换为实际证据", "契合": "尚未提供用户偏好", "发展": "尚未提供用户发展目标"},
+    "strengths": [],
+    "gaps": ["尚未提供本人档案，示例分数不可用于实际求职判断"],
+    "deal_breaker": false,
+    "deal_breaker_quote": "",
+    "deadline": ""
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "language": "zh-CN",
+  "target_roles": [],
+  "locations": [],
+  "remote_preference": null,
+  "travel_limit": null,
+  "salary_floor": null,
+  "salary_currency": null,
+  "salary_period": null,
+  "salary_basis": null,
+  "availability": null,
+  "constraints": [],
+  "page_target": null
+}

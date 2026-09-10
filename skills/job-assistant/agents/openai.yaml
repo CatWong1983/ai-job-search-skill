@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文求职助手"
+  short_description: "根据真实经历评估岗位、定制中文简历、准备面试并记录投递进展"
+  default_prompt: "使用 $job-assistant，根据我的真实经历评估这份 JD，并准备求职材料。"

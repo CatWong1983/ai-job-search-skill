@@ -1,0 +1,21 @@
+# 依赖与临时产物
+node_modules/
+*.pdf
+documents/简历/*
+documents/applications/*
+!documents/**/.gitkeep
+.DS_Store
+reference/
+# 用户个人简历(根目录),防误提交
+/*.docx
+
+# 个人数据(仅本地,不进版本控制,防开源误传)
+.claude/skills/job-assistant/01-档案-事实层.md
+.claude/skills/job-assistant/02-定位轨道.md
+tracker.csv
+seen_jobs.json
+diagnosis.md
+documents/cases/
+__pycache__/
+*.pyc
+job-search-data/
